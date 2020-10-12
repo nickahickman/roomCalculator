@@ -1,0 +1,13 @@
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.genruntimeconfig.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csprojAssemblyReference.cache
